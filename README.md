@@ -11,4 +11,4 @@ It includes the javascript practices in understanding:<br />
 <br />
 <br />
 ---
-copyrighted &#169; 2023 by [Angela Yu]. All rights reserved.
+copyrighted &#169; 2023 by [Angela Yu - Udemy course]. All rights reserved.
