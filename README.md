@@ -10,5 +10,6 @@ It includes the javascript practices in understanding:<br />
 * adding animation (styles.css) to website
 <br />
 <br />
+
 ---
-copyrighted &#169; 2023 by [Angela Yu - Udemy course]. All rights reserved.
+credit goes to &#169; 2023 by [Angela Yu - Udemy course]. All rights reserved.
